@@ -1,3 +1,3 @@
 # hello-world
 a short description
-first readme edit
+1. first readme edit
