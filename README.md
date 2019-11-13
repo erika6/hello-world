@@ -1,5 +1,5 @@
 # hello-world
-a short trice changed description
+a short four times changed description
 1. first readme edit
 1. `some code`
 1. an image ![](https://cdn.pixabay.com/photo/2017/09/29/12/33/spotted-hyena-2798926__180.jpg)
